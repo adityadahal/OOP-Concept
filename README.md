@@ -37,6 +37,9 @@ Inheritance is the concept to import the attribute and methods from one class to
 To inherit from a class <b>extends</b> keyword is used.
 ![image](https://github.com/adityadahal/OOP-Concept/assets/107999400/c6b96c50-a47f-46d5-9212-f95b5029652c) <br/>
 Here, Car is sub-class and Vechile is super-class.
+<br/>
+### Abstraction
+Data Abstraction is process of hiding certain details and showing only essential information to users. Abstraction can be achieved by using <b>Abstract</b> classes or <b>Interfaces</b>.
 
 
 
