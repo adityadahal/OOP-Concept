@@ -40,6 +40,10 @@ Here, Car is sub-class and Vechile is super-class.
 <br/>
 ### Abstraction
 Data Abstraction is process of hiding certain details and showing only essential information to users. Abstraction can be achieved by using <b>Abstract</b> classes or <b>Interfaces</b>.
+The <b>abstract</b> keyword is non-access modifier, used for classes and methods.
+
+- Abstract Class : restricted class that cannot be used to make objects. (to access it, it must be inherited from another class)
+- Abstract Method: can only be used in Abstract class . Abstract Method cannot have body(logic inside method)
 
 
 
