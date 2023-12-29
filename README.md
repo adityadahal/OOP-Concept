@@ -28,8 +28,11 @@ private variables can only be access within that class (outside class has no acc
 A Quick Reminder : <br/>
 ![image](https://github.com/adityadahal/OOP-Concept/assets/107999400/6d20b742-2a98-498c-8c96-1c5d5ea090eb)
 <br/>
-### Inheritance 
-Inheritance is the concept to import the attribute and methods from one class to another.
+### Inheritance
+Inheritance is the concept to import the attribute and methods from one class to another. 'Inheritance concept' is grouped in two categories:
+
+- subclass(child) : the class that inherits from another class.
+- superclass(parent) : the class being inherited from. 
 
 
 
