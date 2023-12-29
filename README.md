@@ -12,5 +12,7 @@ Class is a collection of Objects. It doesn't take any space on memory. Space is 
   Method is a programmed procedure defined as part of that class and is available to object initialized from that class. Each Object can call the method of their respective classes.
  ### Constructor
  Constructor is a special type of method whose name is same as method name. Whenever we use new keyword to create instance(member) of class, Constructor is invoked(called) and Object of class is returned. Since, Constructor can only return Object of the class we are not supposed to add return type to it. If return type is added to the constructor it becomes method of the class, In this way Constructor and Method are distinguished.
+ ### Encapsulation
+ The main concept of Encapuslation is to make sure that 'sensitive' data is hidden from users. It is used to hide the value or state of structured data objects inside the class to prevent direct access from unauthorized access.
  
  
