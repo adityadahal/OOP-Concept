@@ -32,7 +32,11 @@ A Quick Reminder : <br/>
 Inheritance is the concept to import the attribute and methods from one class to another. 'Inheritance concept' is grouped in two categories:
 
 - subclass(child) : the class that inherits from another class.
-- superclass(parent) : the class being inherited from. 
+- superclass(parent) : the class being inherited from.
+  
+To inherit from a class <b>extends</b> keyword is used.
+![image](https://github.com/adityadahal/OOP-Concept/assets/107999400/c6b96c50-a47f-46d5-9212-f95b5029652c)
+
 
 
 
