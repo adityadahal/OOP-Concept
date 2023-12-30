@@ -1,6 +1,6 @@
 # OOP-Concepts
 OOP stands for <b>Object Oriented Programming </b> <br/> 
-Procedural Programming is about writing Procedures or Methods to perform any operation, while Object Oriented Programming is about creating Objects that contain data and method.
+Procedural Programming is about writing Procedures or Methods to perform any operation, while Object Oriented Programming is about creating Objects that contain data and method. <br/>
 WHY OOP over Procedural Programming : 
 - OOP is faster and easy to execute.
 - OOP provides clear struture to program.
