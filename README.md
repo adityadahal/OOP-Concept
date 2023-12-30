@@ -48,6 +48,18 @@ The <b>abstract</b> keyword is non-access modifier, used for classes and methods
 
 - Abstract Class : restricted class that cannot be used to make objects. (to access it, it must be inherited from another class)
 - Abstract Method: can only be used in Abstract class . Abstract Method cannot have body(logic inside method)
+  <br/>
+  ### Interface
+  Interface is a way to achieve Abstraction. Interface is compeletely abstract class that is used to group methods with empty bodies. <br/> To access interface methods, the interface must be 'implemented' (kinda like inherited) by another class with <b>implements</b> keyword and then body of interface method can be provided by accessing interface method. <br/>
+  ![image](https://github.com/adityadahal/OOP-Concept/assets/107999400/4d0c2b15-0219-4df4-8c60-f7a69e6f0cbc)
+<br/>
+  few points to remember: <br/>
+  - Interfaces cannot be used to create objects.
+  - Interface method cannot have a body. Body is provided by Class which implements Interface.
+  - On implementing Interface all of its method should be overridden.
+  - Interface method are by default abstract and public.
+  - Interface attribute are by default public, static and final.
+  - Interface cannot contain constructor. (As it cannot be used to create a object)
 
 
 
