@@ -1,12 +1,16 @@
 # OOP-Concepts
 OOP stands for <b>Object Oriented Programming </b> <br/> 
 Procedural Programming is about writing Procedures or Methods to perform any operation, while Object Oriented Programming is about creating Objects that contain data and method.
+WHY OOP over Procedural Programming : 
+- OOP is faster and easy to execute.
+- OOP provides clear struture to program.
+- OOP has DRY('Dont Repeat Yourself) principle.
 
 ### Class
 Class is a collection of Objects. It doesn't take any space on memory. Space is taken for Class when Object for that class is made. Class is also called as blueprint or template from which objects are created. <br/> For Example: *Student is a class where particular student Aditya is an Object*
 <br/>
 ### Object 
- Object is a member (an instance) of Class which takes memory. An Object has an  State and Behaviour. <br/> For Example : *A cat’s state includes its color, size, gender, and age, while its behavior is sleeping, purring, meowing for food, or running around like crazy at 4 AM.*.
+ Object is a member (an instance) of Class which takes memory. An Object has an  State and Behaviour. <br/> For Example : *prA cat’s state includes its color, size, gender, and age, while its behavior is sleeping, purring, meowing for food, or running around like crazy at 4 AM.*.
  <br/>
  ### Method
   Method is a programmed procedure defined as part of that class and is available to object initialized from that class. Each Object can call the method of their respective classes.
