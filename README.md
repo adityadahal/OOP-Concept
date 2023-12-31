@@ -44,8 +44,13 @@ Here, Car is sub-class and Vechile is super-class.
 <br/>
 ### Polymorphism
 Polymorphism means "many forms", which occurs when there are many classes related to each other by inheritance. Polymorphism allows to have one interface and multiple implementation of that Interface's method.
-- Compile time Polymorphism: Polymorphism that exist during the time of Compilation is called <b>Compile Time Polymorphism </b>. It is achieved by <b>Method Overloading</b>
-- Run time Polymorphism: Polymorphism that exist at the run time is called Run time Polymorphism . It is achieved by <b>Method Overriding</b>
+- Compile time Polymorphism: Polymorphism that exist during the time of Compilation is called <b>Compile Time Polymorphism </b>. It is achieved by <b>Method Overloading</b> <br/>
+  <p> <b>Method Overloading</b> </p>
+  <p>Whener class contains more than one method with <b>SAME NAME BUT DIFFERENT PARAMETERS</b>, it is called Method Overloading.</p>
+
+- Run time Polymorphism: Polymorphism that exist at the run time is called Run time Polymorphism . It is achieved by <b>Method Overriding</b> <br/>
+<p> <b>Method Overriding</b> </p>
+ <p>When method has <b>SAME NAME, SAME PARAMETER AND SAME RETURN TYPE</b>, it is called Method Overriding</p>
 ### Abstraction
 Data Abstraction is process of hiding certain details and showing only essential information to users. Abstraction can be achieved by using <b>Abstract</b> classes or <b>Interfaces</b>.
 The <b>abstract</b> keyword is non-access modifier, used for classes and methods.
