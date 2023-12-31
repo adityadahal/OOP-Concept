@@ -51,6 +51,7 @@ Polymorphism means "many forms", which occurs when there are many classes relate
 - Run time Polymorphism: Polymorphism that exist at the run time is called Run time Polymorphism . It is achieved by <b>Method Overriding</b> <br/>
 <p> <b>Method Overriding</b> </p>
  <p>When method has <b>SAME NAME, SAME PARAMETER AND SAME RETURN TYPE</b>, it is called Method Overriding</p>
+ 
 ### Abstraction
 Data Abstraction is process of hiding certain details and showing only essential information to users. Abstraction can be achieved by using <b>Abstract</b> classes or <b>Interfaces</b>.
 The <b>abstract</b> keyword is non-access modifier, used for classes and methods.
