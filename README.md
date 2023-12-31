@@ -42,6 +42,10 @@ To inherit from a class <b>extends</b> keyword is used.
 ![image](https://github.com/adityadahal/OOP-Concept/assets/107999400/c6b96c50-a47f-46d5-9212-f95b5029652c) <br/>
 Here, Car is sub-class and Vechile is super-class.
 <br/>
+### Polymorphism
+Polymorphism means "many forms", which occurs when there are many classes related to each other by inheritance. Polymorphism allows to have one interface and multiple implementation of that Interface's method.
+- Compile time Polymorphism: Polymorphism that exist during the time of Compilation is called <b>Compile Time Polymorphism </b>. It is achieved by <b>Method Overloading</b>
+- Run time Polymorphism: Polymorphism that exist at the run time is called Run time Polymorphism . It is achieved by <b>Method Overriding</b>
 ### Abstraction
 Data Abstraction is process of hiding certain details and showing only essential information to users. Abstraction can be achieved by using <b>Abstract</b> classes or <b>Interfaces</b>.
 The <b>abstract</b> keyword is non-access modifier, used for classes and methods.
